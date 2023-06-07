@@ -1,16 +1,23 @@
-# quiz
+## Quiz App -Flutter
 
-A new Flutter project.
+This is the Quiz App made with flutter and Dart.All the questions and answers are static.
+This App works on Android ,Ios and Windows.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Demo Image
+
+![quizss-removebg-preview](https://github.com/Vedant-20/quiz/assets/91717779/9bb5d973-e3af-48c1-9efc-2bb5e652a170)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+
+If you want to contribute to this Project.
+Just Fork this repository and make a pull request after changes.
+
